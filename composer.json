@@ -1,5 +1,5 @@
 {
-    "name"       : "cst/jira-client",
+    "name"       : "rcade/jira-client",
     "description": "A Jira API client for PHP",
     "keywords"   : ["jira", "jwt", "api"],
     "authors"    : [
